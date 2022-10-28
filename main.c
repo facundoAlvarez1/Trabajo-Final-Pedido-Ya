@@ -214,6 +214,9 @@ int main()
             printf("\n\t\t\t\t\tEL TOTAL CONSUMIDO POR LOS CLIENTES EL DIA %d/%d/%d, FUE DE %d MB.\n",dia,mes,anio,sumaTotalDiaria);
             system("pause");
             break;
+        case 567:
+            printf("Modificacion para git modo prueba\n");
+            break;
         }
 
     }
